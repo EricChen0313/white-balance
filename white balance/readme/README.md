@@ -57,7 +57,8 @@ $ git clone https://github.com/EricChen0313/A-watermarking-technique-based-on-th
 # open the folder in Visual Studio Code
 
 # push the 'Terminal' button above
-$ python hw_code.py
+$ cd code                   # Now, you are under the code folder. 
+$ python your_file_name.py  # Replace the file name you want to run. 
 
 # then it will give out the white-balance picture
 ```
