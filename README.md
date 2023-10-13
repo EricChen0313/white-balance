@@ -57,15 +57,16 @@ $ git clone https://github.com/EricChen0313/A-watermarking-technique-based-on-th
 # open the folder in Visual Studio Code
 
 # push the 'Terminal' button above
-$ python hw_code.py
+$ cd code                   # Now, you are under the code folder. 
+$ python your_file_name.py  # Replace the file name you want to run. 
 
 # then it will give out the white-balance picture
 ```
 
 ## Result
 
-![comparison 2](https://github.com/EricChen0313/A-watermarking-technique-based-on-the-least-significant-bit/blob/main/HW1_A%20watermarking%20technique%20based%20on%20the%20least%20significant%20bit/Images/RESULT_IMAGE.jpg)
-![comparison 1](https://github.com/EricChen0313/A-watermarking-technique-based-on-the-least-significant-bit/blob/main/HW1_A%20watermarking%20technique%20based%20on%20the%20least%20significant%20bit/Images/RESULT_IMAGE.jpg)
+![comparison 2](https://github.com/EricChen0313/white-balance/blob/main/white%20balance/result/comparison2.jpg)
+![comparison 1](https://github.com/EricChen0313/white-balance/blob/main/white%20balance/result/comparison1.jpg)
 
 <table>
     <tr> 
