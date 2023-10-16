@@ -65,7 +65,7 @@ $ python your_file_name.py  # Replace the file name you want to run.
 
 ## Result
 
-![comparison 2]([https://github.com/EricChen0313/white-balance/blob/main/white%20balance/result/comparison2.jpg](https://github.com/EricChen0313/white-balance/blob/main/white%20balance/result/comparison2%20emphasized%20version.jpg))
+![comparison 2](https://github.com/EricChen0313/white-balance/blob/main/white%20balance/result/comparison2%20emphasized%20version.jpg)
 ![comparison 1](https://github.com/EricChen0313/white-balance/blob/main/white%20balance/result/comparison1.jpg)
 
 <table>
